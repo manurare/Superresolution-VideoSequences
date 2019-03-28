@@ -4,9 +4,6 @@ This project consists on the extrapolation of *Drizzle* algorithm from astronomi
 
 ## Results
 <div align="center">
-  <img src="Superresolution-VideoSequences/images/recons.gif">
-</div>
-<div align="center">
   <img src="Superresolution-VideoSequences/images/faceTracking.gif">
   <img src="Superresolution-VideoSequences/images/optFlow.gif">
 </div>
