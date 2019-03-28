@@ -7,6 +7,6 @@ This project consists on the extrapolation of *Drizzle* algorithm from astronomi
   <img src="https://github.com/manurare/Superresolution-VideoSequences/blob/master/images/recons.gif">
 </div>
 <div align="center">
-  <img src="https://github.com/manurare/Superresolution-VideoSequences/blob/master/images/recons.gif">
+  <img src="https://github.com/manurare/Superresolution-VideoSequences/blob/master/images/faceTracking.gif">
   <img src="https://github.com/manurare/Superresolution-VideoSequences/blob/master/images/optFlow.gif">
 </div>
