@@ -12,6 +12,7 @@ Any OpenCV version up to 3.4.4
 <div align="center">
   <img src="https://github.com/manurare/Superresolution-VideoSequences/blob/master/images/recons.gif" width="300" height="300">
 </div>
+
 ### Face tracking by Optical Flow
 <div align="center">
   <img src="https://github.com/manurare/Superresolution-VideoSequences/blob/master/images/faceTracking.gif" width="300" height="300">
