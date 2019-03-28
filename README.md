@@ -4,9 +4,9 @@ This project consists on the extrapolation of *Drizzle* algorithm from astronomi
 
 ## Results
 <div align="center">
-  <img src="https://github.com/manurare/Superresolution-VideoSequences/blob/master/images/recons.gif">
+  <img src="https://github.com/manurare/Superresolution-VideoSequences/blob/master/images/recons.gif" width="200" height="400">
 </div>
 <div align="center">
-  <img src="https://github.com/manurare/Superresolution-VideoSequences/blob/master/images/faceTracking.gif">
-  <img src="https://github.com/manurare/Superresolution-VideoSequences/blob/master/images/optFlow.gif">
+  <img src="https://github.com/manurare/Superresolution-VideoSequences/blob/master/images/faceTracking.gif" width="200" height="400">
+  <img src="https://github.com/manurare/Superresolution-VideoSequences/blob/master/images/optFlow.gif" width="200" height="400">
 </div>
